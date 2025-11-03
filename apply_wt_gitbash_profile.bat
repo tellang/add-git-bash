@@ -1,4 +1,5 @@
 @echo off
+:: This is a comment to create a new commit.
 setlocal
 
 :: Default value for MAKE_DEFAULT
